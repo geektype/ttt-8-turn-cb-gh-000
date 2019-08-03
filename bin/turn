@@ -4,3 +4,4 @@ board = ["Y", " ", " ", " ", "X", " ", " ", " ", "Y"]
 
 puts "Welcom to Noughts `n Crosses"
 display_board(board)
+turn(board)
