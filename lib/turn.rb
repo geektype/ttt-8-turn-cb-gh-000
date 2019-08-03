@@ -30,4 +30,4 @@ def position_taken(board, index)
 end
 
 
-puts valid_move(board, 1)
+
