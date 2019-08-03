@@ -12,6 +12,7 @@ end
 def input_to_index(number)
   number = number.strip
   return number -1
+end
 
 def valid_move(board, index)
   if !(index.between?(0,8))
