@@ -10,7 +10,7 @@ def display_board(board)
 end
 
 def input_to_index(number)
-  number = number.strip
+  number = number.to_i
   return number -1
 end
 
